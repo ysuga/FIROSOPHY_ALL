@@ -1,0 +1,18 @@
+[submodule "OpenRTSystemBuilder"]
+	path = OpenRTSystemBuilder
+	url = git@github.com:ysuga/OpenRTSystemBuilder.git
+[submodule "OpenRTSystemBuilderUI"]
+	path = OpenRTSystemBuilderUI
+	url = git@github.com:ysuga/OpenRTSystemBuilderUI.git
+[submodule "OpenStateMachine"]
+	path = OpenStateMachine
+	url = git@github.com:ysuga/OpenStateMachine.git
+[submodule "OpenStateMachineUI"]
+	path = OpenStateMachineUI
+	url = git@github.com:ysuga/OpenStateMachineUI.git
+[submodule "FIROSOPHYEngine"]
+	path = FIROSOPHYEngine
+	url = git@github.com:ysuga/FIROSOPHYEngine.git
+[submodule "FIROSOPHY"]
+	path = FIROSOPHY
+	url = git@github.com:ysuga/FIROSOPHY.git
